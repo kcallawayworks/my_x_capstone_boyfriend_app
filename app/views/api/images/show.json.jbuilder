@@ -1,0 +1,1 @@
+json.partial! "images.json.jbuilder", images: @images
